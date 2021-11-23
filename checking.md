@@ -1,0 +1,1 @@
+We are checking if we can commit without add i.e without tracking
